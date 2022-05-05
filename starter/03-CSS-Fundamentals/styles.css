@@ -43,6 +43,29 @@ footer p {
   font-size: 16px;
 }
 
-article header p {
+/* article header p {
   font-style: italic;
+} */
+
+#author {
+  font-style: italic;
+}
+
+#copyright {
+  font-size: 16px;
+}
+
+.related-author {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/*
+ul {
+  list-style: none;  borra los puntos en las listas 
+}
+*/
+
+.related {
+  list-style: none;
 }
