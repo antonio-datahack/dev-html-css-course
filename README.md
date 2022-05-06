@@ -1,7 +1,7 @@
 # html-css-course
 html-css-course
 
-**extensios:** 
+**extensions:** 
 <ul>
   <li>Image Preview</li>
   <li>Color Highlight</li>
