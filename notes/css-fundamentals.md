@@ -1,3 +1,4 @@
+<a id='section0'></a>
 <h2>Table of contents</h2>
 
 + [Defining Colors in CSS](#section1)
