@@ -5,6 +5,13 @@ h4,
 p,
 li {
   font-family: sans-serif;
+  color: #444;
+}
+
+h1,
+h2,
+h3 {
+  color: #1098ad;
 }
 
 h1,
@@ -68,4 +75,62 @@ ul {
 
 .related {
   list-style: none;
+}
+
+.main-header {
+  background-color: #f7f7f7;
+}
+
+aside {
+  background-color: #f7f7f7;
+  border-top: 5px solid #1098ad; /* I can also use dotted, wavy, dashed, etc */
+  border-bottom: 5px solid #1098ad;
+}
+
+body {
+  /* background-color: orangered; */
+}
+
+/* .first-li {
+  font-weight: bold;
+} */
+
+li:first-child {
+  font-weight: bold;
+}
+
+li:last-child {
+  font-style: italic;
+}
+
+li:nth-child(odd) {
+  /* I can put numbers or odd / even
+  /* color: red; */
+}
+
+/* Misconception: this won't work */
+article p:first-child {
+  color: red; /* when we mix multiple elements inside of a parent element, then the pseudo classes dont work really well. */
+}
+
+/* Styling links */
+a:link { /* this will basically target all the anchor elements that have an href attribute */
+  color: #1098ad;
+  text-decoration: none; /* this take out the highlight in the words */
+}
+
+a:visited {
+  /* color: #777; */
+  color: #1098ad;
+}
+
+a:hover {
+  color: orangered;
+  font-weight: bold;
+  text-decoration: underline wavy orangered;
+}
+
+a:active {
+  background-color: black;
+  font-style: italic;
 }
