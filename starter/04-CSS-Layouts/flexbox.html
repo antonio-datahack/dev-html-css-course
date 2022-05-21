@@ -36,10 +36,33 @@
         /* STARTER */
         font-family: sans-serif;
         background-color: #ddd;
-        font-size: 40px;
+        font-size: 34px;
         margin: 40px;
 
         /* FLEXBOX */
+        display: flex;
+        align-items: center; /* center, flex-end, flex-start, stretch */
+        justify-content: flex-start; /* space-between, center, flex-start */
+        /* gap: 30px; */
+      }
+
+      .el {
+        /* DEFAULTS:
+        flex-grow: 0;
+        flex-shrink: 1;
+        flex-basis: auto;*/
+        flex-basis: 100px;
+      }
+      .el--1 {
+        align-self: flex-start;
+        /* order: 2; */
+      }
+      .el--5 {
+        align-self: stretch;
+        order: 1;
+      }
+      .el--6 {
+        order: -1; /*by default all are 0 */
       }
     </style>
   </head>
