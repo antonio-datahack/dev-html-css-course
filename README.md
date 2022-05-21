@@ -10,6 +10,7 @@
 
 + [Extensions](#section1)
 + [CSS Fundamentals](https://github.com/antonio-datahack/dev-html-css-course/blob/main/notes/css-fundamentals.md)
++ [FlexBox](https://github.com/antonio-datahack/dev-html-css-course/blob/main/notes/flexbox.md)
 <!--
 + [Styling Links](#section3)
 + [Resolving Conflicting Declarations](#section4) -->
