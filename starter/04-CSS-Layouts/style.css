@@ -136,9 +136,9 @@ li:last-child {
   margin-left: 0;
 }
 
-body {
-  /* background-color: orangered; */
-}
+/* body {
+  background-color: orangered;
+} */
 
 /* .first-li {
   font-weight: bold;
@@ -197,7 +197,7 @@ nav a:link {
   display: block; */
 
   margin-right: 30px;
-  margin-top: 10px;
+  /* margin-top: 10px; */
   display: inline-block;
 }
 
@@ -270,13 +270,13 @@ nav p {
 } */
 
 /* FLOAT */
-.author-img {
+/* .author-img {
   float: left;
   margin-bottom: 20px;
 }
 
 .author {
-  /* padding-left: 80px; */
+   padding-left: 80px; 
   float: left;
   margin-top: 10px;
   margin-left: 20px;
@@ -289,10 +289,10 @@ h1 {
 nav {
   float: right;
 }
-/* 
+
 .clear {
   clear: both;
-} */
+} 
 
 .clearfix::after {
   clear: both;
@@ -312,4 +312,23 @@ aside {
 
 footer {
   clear: both;
+} */
+
+/* FLEXBOX */
+
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.author-box{
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+
+
+}
+.author {
+  margin-bottom: 0;
+  margin-left: 15px;
 }
