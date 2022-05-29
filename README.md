@@ -28,4 +28,6 @@
   <li>Color Highlight</li>
   <li>Auto Rename Tag</li>
   <li>Live Server</li>
+  <li>npm install live-server</li>
+  <li>npm install sass</li>
 </ul>
