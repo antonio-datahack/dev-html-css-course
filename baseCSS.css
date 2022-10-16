@@ -1,0 +1,212 @@
+/* ---------------------------------------------------- */
+
+.text-xs {
+  font-size: 0.75rem; /* 12px */
+  line-height: 1rem; /* 16px */
+}
+.text-sm {
+  font-size: 0.875rem; /* 14px */
+  line-height: 1.25rem; /* 20px */
+}
+.text-base {
+  font-size: 1rem; /* 16px */
+  line-height: 1.5rem; /* 24px */
+}
+.text-lg {
+  font-size: 1.125rem; /* 18px */
+  line-height: 1.75rem; /* 28px */
+}
+.text-xl {
+  font-size: 1.25rem; /* 20px */
+  line-height: 1.75rem; /* 28px */
+}
+.text-2xl {
+  font-size: 1.5rem; /* 24px */
+  line-height: 2rem; /* 32px */
+}
+.text-3xl {
+  font-size: 1.875rem; /* 30px */
+  line-height: 2.25rem; /* 36px */
+}
+.text-4xl {
+  font-size: 2.25rem; /* 36px */
+  line-height: 2.5rem; /* 40px */
+}
+.text-5xl {
+  font-size: 3rem; /* 48px */
+  line-height: 1;
+}
+.text-6xl {
+  font-size: 3.75rem; /* 60px */
+  line-height: 1;
+}
+.text-7xl {
+  font-size: 4.5rem; /* 72px */
+  line-height: 1;
+}
+.text-8xl {
+  font-size: 6rem; /* 96px */
+  line-height: 1;
+}
+.text-9xl {
+  font-size: 8rem; /* 128px */
+  line-height: 1;
+}
+
+/* -------------------------- MARGIN ----------------------------- */
+
+.mb-15 {
+  margin-bottom: 15px;
+}
+
+.mb-5 {
+  margin-bottom: 5px;
+}
+
+.mb-50 {
+  margin-bottom: 50px;
+}
+
+.mr-40 {
+  margin-right: 40px;
+}
+
+.ml-40 {
+  margin-left: 40px;
+}
+
+
+.m-0 {
+  margin: 0px;
+}
+
+.m-5 {
+  margin: 5px;
+}
+.m-10 {
+  margin: 10px;
+}
+
+.m-20 {
+  margin: 20px;
+}
+.m-30 {
+  margin: 30px;
+}
+
+.ml-20 {
+  margin-left: 20px;
+}
+
+.ml-50 {
+  margin-left: 50px;
+}
+
+.ml-250 {
+  margin-left: 250px;
+}
+
+.mr-20 {
+  margin-right: 20px;
+}
+
+.neg-ml-10 {
+  margin-left: -10px;
+}
+
+.neg-ml-5 {
+  margin-left: -5px;
+}
+
+/* ------------------------- PADING ----------------------------- */
+
+.pr-20 {
+  padding-right: 20px;
+}
+
+
+
+.py-40 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.p-0 {
+  padding: 0px;
+}
+.p-10 {
+  padding: 10px;
+}
+.p-20 {
+  padding: 20px;
+}
+
+.px-50 {
+  padding: 0px 50px 0px 50px;
+}
+
+.pt-50 {
+  padding-top: 50px;
+}
+
+/* -------------------------- TEXT ------------------------------ */
+
+.text-white {
+  color: #fff;
+}
+
+.text-yellow {
+  color: #ecb12f;
+}
+
+.text-purple {
+  color: #540b51;
+}
+
+.text-black-one {
+  color: #191817;
+}
+
+.text-blue-light {
+  color: #2e71a6;
+}
+
+/* -------------------------- BG ------------------------------ */
+.bg-purple {
+  background: #540b51;
+}
+
+.bg-grey {
+  background: #454245;
+}
+
+.bg-blue {
+  background: #4285f4;
+}
+
+.bg-ivory {
+  background: #f3eae2;
+}
+
+.bg-white {
+  background: white;
+}
+
+/* -------------------------- WIDTH ------------------------------ */
+
+.width-100 {
+  width: 100%;
+}
+
+.width-90 {
+  width: 90%;
+}
+
+.no-deco {
+  text-decoration: none;
+}
+
+
+
+
+
